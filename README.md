@@ -1,2 +1,2 @@
-# filter_rules
-quanx fiter rules
+# 个人自用QuantumX配置
+
