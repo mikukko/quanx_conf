@@ -1,2 +1,2 @@
-# 个人自用QuantumX配置
+# 个人自用QuantumultX配置
 
